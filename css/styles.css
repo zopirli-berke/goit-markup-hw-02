@@ -87,13 +87,17 @@ h2 {
   font-size: 20px;
   letter-spacing: 0.02em;
 }
+
 .team {
   background-color: #f4f4fd;
 }
 .team-section {
   background-color: #ffffff;
 }
-.text {
+
+.portfolio-functions,
+.team-position,
+.features-text {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
