@@ -25,14 +25,14 @@ h2 {
   line-height: 1.16;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  letter-spacing: 0.03;
+  letter-spacing: 0.03em;
 }
 .studio-logo {
   color: #2e2f42;
   line-height: 1.16;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  letter-spacing: 0.03;
+  letter-spacing: 0.03em;
 }
 .page-nav .link {
   color: #2e2f42;
@@ -119,14 +119,14 @@ h2 {
   line-height: 1.16;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  letter-spacing: 0.03;
+  letter-spacing: 0.03em;
 }
 .studio-logo-2 {
   color: #f4f4fd;
   line-height: 1.16;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  letter-spacing: 0.03;
+  letter-spacing: 0.03em;
 }
 
 .copyright-text {
