@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", "Arial", "Helvetica", sans-serif;
   color: #2e2f42;
 }
 a {
@@ -87,25 +87,13 @@ h2 {
   font-size: 20px;
   letter-spacing: 0.02em;
 }
-.features-text {
-  color: #434455;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
 .team {
   background-color: #f4f4fd;
 }
 .team-section {
   background-color: #ffffff;
 }
-.team-position {
-  color: #434455;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.portfolio-functions {
+.text {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
